@@ -1,4 +1,4 @@
-from trie import Trie
+from task2.trie import Trie
 
 
 class Homework(Trie):
